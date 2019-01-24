@@ -59,7 +59,7 @@ namespace Fisher.Bookstore.Controllers
 
         public IActionResult featured()
         {
-            return Content("This is the Author controller’s feature action");
+            return Content("This is the Author controller’s features action");
         }
 
     }
